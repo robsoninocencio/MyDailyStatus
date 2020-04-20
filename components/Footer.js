@@ -6,7 +6,7 @@ const Footer = () => {
       MyDailyStatus é um projeto criado durante o Fullstack Lab do DevPleno.
       <br />
       Implementado por:{' '}
-      <a href='https://linkedin.com/in/tuliofaria'>Tulio Faria</a>
+      <a href='https://github.com/robsoninocencio'>Robson Inocêncio</a>
     </div>
   )
 }
