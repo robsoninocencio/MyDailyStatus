@@ -16,7 +16,7 @@ const App = props => {
   }
   return (
     <div>
-      <h1>Status próximos a você:</h1>
+      <h1>Status de pessoas próximas a você:</h1>
       <table>
         {props.checkins.map(checkin => {
           return (
